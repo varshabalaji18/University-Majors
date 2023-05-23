@@ -4,7 +4,7 @@
 ## Authors:
 #### Sergey Orlov
 #### Shrivarshini Balaji
-### Introduction:
+### Introduction: 
 Major is a specific area of study in which a student chooses to specialize. Popular disciplines for college majors include business, health, engineering and biology. The importance of your major depends on the industry you want to work in. When students start college, it can be difficult for students to find their focus, not everybody is certain about what they want to major in.
 
 However, most students know they want a good-paying and secure job. This is why they are willing to make the investment of time and money to go to college. A degree can open up unexpected And exciting opportunities and pathways that are more attractive, having perks such as a better work environment, retirement health insurance, paid time off, bonuses, stock options, wellness and benefits, continuing education as well as other memberships. There’s no doubt choosing a major is a big decision and one that many students agonize over.
