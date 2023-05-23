@@ -140,7 +140,7 @@ As the scope and importance of all major's in education are the same across all 
 Choosing the right majors according to a student's skill and interest will help increase their quality of life and happiness, because
 ##  "Happy people will produce healthy society with strong economy and higher living standard"
 ### Gratitudes
-I would like to special thank Dr. Tamer Jarada for the very useful feedback and great insights I received from his educational course and my project partner Sergey Orlov for productive cooperation, responsibility and excellent communication.
+I would like to special thank [Dr. Tamer Jarada](https://www.linkedin.com/in/tamerjarada/) for the very useful feedback and great insights I received from his educational course and my project partner [Sergey Orlov](https://www.linkedin.com/in/orlovtsu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4KyP2dPuQZyevbxKTQOeww%3D%3D) for productive cooperation, responsibility and excellent communication.
 
 ## References
 [1] https://www.kaggle.com/datasets/thedevastator/uncovering-insights-to-college-majors-and-their?select=recent-grads.csv
